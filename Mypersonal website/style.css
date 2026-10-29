@@ -1,0 +1,87 @@
+body {
+   background-image: url('fahh.jpg');
+    
+    /* Prevents the image from repeating like a grid */
+    background-repeat: no-repeat;
+    
+    /* Stretches the image to cover the entire screen */
+    background-size: cover;
+    
+    /* Centers the image on the screen */
+    background-position: center;
+    
+    /* Keeps the background fixed in place while scrolling */
+    background-attachment: fixed;
+    
+    /* Optional: fallback background color while the image loads */
+    background-color: #f0f0f0;
+}
+.header {
+    text-align: center;
+    padding: 80px 80px;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 50px;
+    background-color: rgba(17, 7, 128, 0.346);
+
+}
+.first {
+    text-align: center;
+    padding:  20px;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.profilepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+}
+.larp {
+    text-align: center;
+    padding:  20px;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    background-color: rgba(17, 7, 128, 0.346);
+}
+.sweet {
+   background-color: rgb(211, 213, 211); /* Your background color */
+    width: 700px;
+    height: 200px;               /* Make it smaller than the full screen */
+    margin-left: auto;           /* Centers it horizontally */
+    margin-right: auto;          /* Centers it horizontally */
+    padding: 20px;               /* Gives breathing room inside */
+    border-radius: 12px;         /* Rounds the corners nicely */
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border: 3px solid rgba(7, 143, 222, 0.486);
+}
+.fahh{
+    text-align: center;
+    padding: 8px 20px;
+    margin: 0;
+    font-size: 50px;
+    text-transform: center;
+    background-color: rgba(230, 238, 229, 0.305);
+}
+
+}
+.hobbies {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    background-color: rgba(17, 7, 128, 0.346);
+}  
+hobbiess {
+
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    background-color: rgba(17, 7, 128, 0.346);
+}
